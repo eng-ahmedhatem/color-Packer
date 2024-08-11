@@ -1,0 +1,27 @@
+.button{
+    color: red;
+}
+.button_2{
+    color: blue;
+}
+.div_color {
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+input[type="color" i] {
+padding: 1px;
+border: none;
+background-color: transparent;
+outline: none;
+color: transparent;
+}
+input[type="color"] {
+display: block;
+margin: 15px auto;
+cursor: pointer;
+}
